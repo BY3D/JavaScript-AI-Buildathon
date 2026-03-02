@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-[Register today](https://aka.ms/JSAIBuildathon)
+[Register today](https://developer.microsoft.com/reactor/series/S-1628/)
 
 </div>
 
@@ -25,8 +25,6 @@
 # What is the JavaScript AI Build-a-thon?
 
 The JavaScript AI Build-a-thon is a focused, hands-on initiative that helps **builders** quickly move from exploration to working AI prototypes. Through concise quests and practical demos, you'll gain real skills with modern AI tools in a clear, outcome-driven format.
-
-**This isn't just another hackathon. It's your launchpad into the Agentic future of JavaScript and TypeScript development.**
 
 If you're building your first AI app or architecting multi-agent systems, the Build-a-thon gives you the tools, the mentorship, and the stage to ship something real.
 
@@ -49,7 +47,15 @@ The Build-a-thon runs in two phases.
 
 Complete guided quests and attend expert-led livestreams to build the skills you'll need. Each quest is hands-on, self-paced, and designed to teach you a core AI development pattern with JavaScript/TypeScript:
 
-> *Season 2 Quests will go live on Monday March 2, 2026.*
+| Quest | Topic | What You'll Learn |
+|---|---|---|
+| [Quest 1](/01-Local-AI-Development/README.md) | Local AI Development with Foundry Local | Run AI models on-device for privacy, speed, and offline access |
+| [Quest 2](/02-End-to-End-Model-Development/README.md) | End-to-End Model Development on Microsoft Foundry | Build, train and deploy custom AI models with Microsoft Foundry's unified platform |
+| [Quest 3](/03-Serverless-RAG-Support-System/README.md) | Serverless RAG Support System | Build retrieval-augmented generation pipelines with LangChain.js |
+| [Quest 4](/04-Build-Agents-with-AI-Toolkit/README.md) | Build Agents with AI Toolkit | Create AI agents with MCP tools, evaluation, and code export on VS Code |
+| [Quest 5](/05-E2E-Burger-Ordering-Agent/README.md) | E2E Burger Ordering Agent | Design and run a full agentic system with MCP server integration |
+
+Participation Requirement: Complete at least 2 quests (including the guided project) to be eligible for the hack.
 
 ### Livestream Schedule
 
@@ -79,7 +85,7 @@ Build something that matters. Use everything you learned in the quests, and beyo
 
 Here's what we can tell you now:
 
-- 🏆 **6 award categories** with cash prizes
+- 🏆 **3 award categories** with cash prizes
 - 💻 **Product demo showcases** throughout the hack phase to keep you building with the latest tools
 - 👥 Teams of up to 4 or solo — your call
 
