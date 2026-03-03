@@ -22,7 +22,7 @@ hide:
 
 ## 🎟️ Registration
 
-[**Register now!**](https://developer.microsoft.com/reactor/series/S-1628)
+[**Register now!**](https://developer.microsoft.com/reactor/series/S-1628//?wt.mc_id=github_S-1628_webpage_reactor)
 
 Sign up and browse the livestream schedule to register for sessions you're interested in.
 
