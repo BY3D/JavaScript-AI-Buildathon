@@ -55,6 +55,14 @@ To complete the quest, you will need:
 
 ### 4. Complete the Quest
 
+> [!NOTE]
+>
+> The **Foundry SDK is under active development**. 
+>
+> If you encounter any blockers, unclear steps, or have suggestions to improve the developer experience, please open an issue using the [provided issue template](https://github.com/microsoft/microsoft-foundry-e2e-js/issues/new/choose) - *Bug report/ Build-a-thon Feedback*. Make sure to **apply the label** that matches the step you were on when the issue occurred.
+>
+> ![Buildathon issue with labels](./assets/buildathon-feedback.png)
+
 The repoistory is setup with a `devcontainer.json` that installs all the required depdencencies and gives you access to a free tier of GitHub Copilot. 
 
 Open the `README.md` in that repository to see the various _tasks_ available for that quest.
