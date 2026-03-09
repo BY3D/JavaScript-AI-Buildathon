@@ -1,8 +1,8 @@
 ![Foundry Local](./assets/foundry-logo.png)
 
-Livestream starting soon! **Click below to register.**
+Livestream starting soon! **Click the image below to watch the recording.**
 
-[![Reactor Livestream](./assets/poster-quest2.png)](https://developer.microsoft.com/reactor/events/26773/)
+[![Reactor Livestream](./assets/poster-quest2.png)](https://www.youtube.com/live/8ded7UAdPTA?si=UwncP4b4tIs1dwLS)
 
 # Building AI Agents E2E On Microsoft Foundry
 
@@ -21,6 +21,9 @@ Cora needs to meet three requirements:
 How do we go from plan to prototype and production, to meet these goals?
 
 ## Steps To Complete The Quest
+
+![Note on costs associated with the quest](./assets/image.png)
+
 ### 1. Pre-Requisites
 
 To complete the quest, you will need:
@@ -49,8 +52,6 @@ To complete the quest, you will need:
     az account show
     ```
 1. Your local environment is connected to Azure. ✅
-
-
 
 ### 4. Complete the Quest
 
