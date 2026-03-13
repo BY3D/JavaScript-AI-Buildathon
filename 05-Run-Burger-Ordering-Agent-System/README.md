@@ -2,7 +2,7 @@
 
 Livestream starting soon! **Click the image below to register.**
 
-[![Reactor Livestream](./assets/poster-quest5.png)](https://developer.microsoft.com/en-us/reactor/events/26786/)
+[![Reactor Livestream](./assets/poster-quest5.png)](https://www.youtube.com/live/kBVsqJbM7Vc?si=hmIEfla6KOB9MsYW)
 
 ## Overview
 

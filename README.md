@@ -79,22 +79,17 @@ Expert-led sessions streamed live on Microsoft Reactor, covering everything from
 
 ## 🔥 Phase 2: Hack! (March 13 – March 31)
 
-Build something that matters. Use everything you learned in the quests, and beyond, to create an AI-powered project that solves a real problem, delights users, or pushes what's possible.
+Build something that matters. Use everything you learned in the quests, and beyond, to build AI Agents that solve real problems, delights users, or push what's possible.
 
-> **The hackathon launches on March 13, 2026.** Full details on registration, submission, judging criteria, award categories, prizes, and the hack phase schedule will be published when the hack goes live. Stay tuned!
+Bookmark the [Hack page](https://aka.ms/JSBuildathon_Hack) for when it goes live.
 
-Here's what we can tell you now:
-
-- 🏆 **3 award categories** with cash prizes
-- 💻 **Product demo showcases** throughout the hack phase to keep you building with the latest tools
-- 👥 Teams of up to 4 or solo — your call
+![The JavaScript AI Build-a-thon Season 2 - Coming Soon!](assets/hack-roadmap.png)
 
 ## 💬 Community & Support
 
 Join our community to connect with other participants and experts from Microsoft &. GitHub to support your builder journey.
 
-- **Foundry Discord** (#js-ai-build-a-thon channel): [Our platform for office hours, live QnA, quick questions, community & expert support](https://aka.ms/JSAIonDiscord)
-- **GitHub Discussions:** [This is where you'll share ideas, ask questions, find teammates](https://aka.ms/JSAI_Discussions)
+- **Foundry Discord** (#js-ai-build-a-thon channel): [Our platform for office hours, live QnA, quick questions, find teammates, community & expert support](https://aka.ms/JSAIonDiscord)
 - **Social:** Share your progress online using **#JSAIBuildathon**
 
 ## Appendix
