@@ -10,13 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://aka.ms/JSAI_Discussions"><img src="https://img.shields.io/badge/Discussions-Join%20Now-blue?logo=github" alt="Discussions"></a>&nbsp;
   <a href="https://aka.ms/JSAIonDiscord"><img src="https://img.shields.io/badge/Discord-Office%20Hours-7289DA?logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
 </p>
-
-[Register today](https://developer.microsoft.com/reactor/series/S-1628/)
 
 </div>
 
@@ -57,44 +54,31 @@ Complete guided quests and attend expert-led livestreams to build the skills you
 
 Participation Requirement: Complete at least 2 quests (including the guided project) to be eligible for the hack.
 
-### Livestream Schedule
-
-Expert-led sessions streamed live on Microsoft Reactor, covering everything from local AI development to production-grade agent architectures.
-
-#### Week 1: March 2 – March 6
-
-| Day/Time (PT) | Topic | Links to join |
-|---|---|---|
-| Mon 3/2, 8:00 AM PST | Local AI Development with Foundry Local | [Livestream](https://developer.microsoft.com/en-us/reactor/events/26772/) <br> [Discord Office Hour](https://discord.gg/microsoftfoundry?event=1465380906842853666)|
-| Wed 3/4, 8:00 AM PST | End-to-End Model Development on Microsoft Foundry | [Livestream](https://developer.microsoft.com/en-us/reactor/events/26773/) <br> [Discord Office Hour](https://discord.gg/microsoftfoundry?event=1470927803888173109)|
-| Fri 3/6, 9:00 AM PST | Advanced RAG Deep Dive + Guided Project | [Livestream](https://developer.microsoft.com/en-us/reactor/events/26775) <br> [Discord Office Hour](https://discord.gg/microsoftfoundry?event=1465381686362509323)|
-
-#### Week 2: March 9 – March 13
-
-| Day/Time (PT) | Topic | Links to join |
-|---|---|---|
-| Mon 3/9, 8:00 AM PST | Design & Build an Agent E2E with Agent Builder (AITK) | [Livestream](https://developer.microsoft.com/en-us/reactor/events/26776/) <br> [Discord Office Hour](https://discord.gg/microsoftfoundry?event=1465382167894036481)|
-| Wed 3/11, 8:00 AM PST | Build, Scale & Govern AI Agents + Guided project | [Livestream](https://developer.microsoft.com/en-us/reactor/events/26786/) <br> [Discord Office Hour](https://discord.gg/microsoftfoundry?event=1465382908687814840)|
-| Fri 3/13, 8:00 AM PST | Build-a-thon Global Hack Launch | [Livestream](https://developer.microsoft.com/en-us/reactor/events/26777/) <br> [Discord Office Hour](https://discord.gg/microsoftfoundry?event=1470930191994847343)|
-
 ## 🔥 Phase 2: Hack! (March 13 – March 31)
 
-Build something that matters. Use everything you learned in the quests, and beyond, to create an AI-powered project that solves a real problem, delights users, or pushes what's possible.
+Build something that matters. Use everything you learned in the quests, and beyond, to build AI Agents that solve real problems, delight users, and push what's possible.
 
-> **The hackathon launches on March 13, 2026.** Full details on registration, submission, judging criteria, award categories, prizes, and the hack phase schedule will be published when the hack goes live. Stay tuned!
+[Register for the hackathon](https://aka.ms/JSBuildathon_Hack)
 
-Here's what we can tell you now:
+![Hack roadmap](assets/hack-roadmap.png)
 
-- 🏆 **3 award categories** with cash prizes
-- 💻 **Product demo showcases** throughout the hack phase to keep you building with the latest tools
-- 👥 Teams of up to 4 or solo — your call
+During the hack phase, attend technical demos and special Discord Office Hours (8:00 AM PDT) to learn the latest tools and best practices.
+
+| Date (8:00 AM PDT) | Demo | Link |
+|---|---|---|
+| March 16 | Azure & Foundry MCP Server Demo | [Join event](https://discord.gg/microsoftfoundry?event=1476309470312136704) |
+| March 18 | Azure Developer CLI (azd) Demo | [Join event](https://discord.gg/microsoftfoundry?event=1476310190885175296) |
+| March 20 | Azure DocumentDB Demo | [Join event](https://discord.gg/microsoftfoundry?event=1473725339959033866) |
+| March 23 | GitHub Copilot CLI & SDK Demo | [Join event](https://discord.gg/microsoftfoundry?event=1473726030421430272) |
+| March 25 | GitHub Agentic Workflows Demo | [Join event](https://discord.gg/microsoftfoundry?event=1473781418956947566) |
+| March 27 | GitHub Copilot App Modernization Demo | [Join event](https://discord.gg/microsoftfoundry?event=1473781883811795147) |
+
 
 ## 💬 Community & Support
 
 Join our community to connect with other participants and experts from Microsoft &. GitHub to support your builder journey.
 
-- **Foundry Discord** (#js-ai-build-a-thon channel): [Our platform for office hours, live QnA, quick questions, community & expert support](https://aka.ms/JSAIonDiscord)
-- **GitHub Discussions:** [This is where you'll share ideas, ask questions, find teammates](https://aka.ms/JSAI_Discussions)
+- **Foundry Discord** (#js-ai-build-a-thon channel): [Our platform for office hours, live QnA, quick questions, finding teammates, community & expert support](https://aka.ms/JSAIonDiscord)
 - **Social:** Share your progress online using **#JSAIBuildathon**
 
 ## Appendix

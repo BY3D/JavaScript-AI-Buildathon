@@ -1,8 +1,8 @@
 ![AI Toolkit](./assets/aitk.png)
 
-Livestream starting soon! **Click the image below to register.**
+Livestream starting soon! **Click the image below to watch the recording.**
 
-[![Reactor Livestream](./assets/poster-quest4.png)](https://developer.microsoft.com/en-us/reactor/events/26776/)
+[![Reactor Livestream](./assets/poster-quest4.png)](https://www.youtube.com/live/k0q5-VIGtWQ?si=yXLiyalxU6wELpxW)
 
 ## Overview
 
@@ -444,7 +444,7 @@ This gives you a complete and ready chat application for your AI agent! 🚀
 
 ## Stay connected
 
-Have a question, project or insight to share? Post in the [AI Toolkit discussion hub](https://github.com/Azure-Samples/JavaScript-AI-Buildathon/discussions/90)
+Have a question, project, or insight to share? Join the [Build-a-thon Discord channel](https://aka.ms/JSAIonDiscord)
 
 ## AI Note
 
