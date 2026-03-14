@@ -444,7 +444,7 @@ This gives you a complete and ready chat application for your AI agent! 🚀
 
 ## Stay connected
 
-Have a question, project or insight to share? Post in the [AI Toolkit discussion hub](https://github.com/Azure-Samples/JavaScript-AI-Buildathon/discussions/90)
+Have a question, project, or insight to share? Join the [Build-a-thon Discord channel](https://aka.ms/JSAIonDiscord)
 
 ## AI Note
 

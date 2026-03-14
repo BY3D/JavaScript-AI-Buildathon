@@ -89,7 +89,7 @@ Once you have completed the CodeTour and explored the Agent implementation, retu
 
 ## Stay connected
 
-Have a question, project or insight to share? Post in the [Agentic Systems discussion hub](https://github.com/Azure-Samples/JavaScript-AI-Buildathon/discussions/91)
+Have a question, project, or insight to share? Join the [Build-a-thon Discord channel](https://aka.ms/JSAIonDiscord)
 
 ## AI Note
 

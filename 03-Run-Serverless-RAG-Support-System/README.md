@@ -91,7 +91,7 @@ Once you have completed the CodeTour and explored the RAG implementation, return
 
 ## Stay connected
 
-Have a question, project or insight to share? Post in the [RAG discussion hub](https://github.com/Azure-Samples/JavaScript-AI-Buildathon/discussions/89)
+Have a question, project, or insight to share? Join the [Build-a-thon Discord channel](https://aka.ms/JSAIonDiscord)
 
 ## AI Note
 

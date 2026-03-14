@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://aka.ms/JSAI_Discussions"><img src="https://img.shields.io/badge/Discussions-Join%20Now-blue?logo=github" alt="Discussions"></a>&nbsp;
   <a href="https://aka.ms/JSAIonDiscord"><img src="https://img.shields.io/badge/Discord-Office%20Hours-7289DA?logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">

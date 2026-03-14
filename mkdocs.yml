@@ -74,7 +74,6 @@ extra:
 nav:
   - Overview: index.md
   - Quests: quests.md
-  - Discussions: https://aka.ms/JSAI_Discussions
 
 # Extensions  ...............................................
 markdown_extensions:

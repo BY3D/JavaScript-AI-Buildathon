@@ -394,7 +394,7 @@ Example UI:
 
 ## Stay connected
 
-Have a question, project or insight to share? Post in the [Local AI discussion hub](https://github.com/Azure-Samples/JavaScript-AI-Buildathon/discussions/88)
+Have a question, project, or insight to share? Join the [Build-a-thon Discord channel](https://aka.ms/JSAIonDiscord)
 
 ## AI Note
 
