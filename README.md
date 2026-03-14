@@ -56,7 +56,7 @@ Participation Requirement: Complete at least 2 quests (including the guided proj
 
 ## 🔥 Phase 2: Hack! (March 13 – March 31)
 
-Build something that matters. Use everything you learned in the quests, and beyond, to build AI Agents that solve real problems, delights users, or push what's possible.
+Build something that matters. Use everything you learned in the quests, and beyond, to build AI Agents that solve real problems, delight users, and push what's possible.
 
 [Register for the hackathon](https://aka.ms/JSBuildathon_Hack)
 
