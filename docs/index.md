@@ -92,8 +92,8 @@ Submit your project on [Innovation Studio](https://aka.ms/JSBuildathon_Hack). Yo
 
 1. **GitHub repository**: URL to your project's code for judging and testing
 2. **Technical blog**: URL to a blog post with a step-by-step walkthrough of your project
-4. **Project video**: 3–5 minute demo on YouTube, Vimeo, or Facebook (public)
-5. **GitHub usernames**: For ALL team members
+3. **Project video**: 3–5 minute demo on YouTube, Vimeo, or Facebook (public)
+4. **GitHub usernames**: For ALL team members
 
 !!! warning
     Judging time per project is strictly under 5 minutes — make your demo count!
