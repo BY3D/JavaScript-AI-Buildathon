@@ -22,11 +22,9 @@ hide:
 
 ## 🎟️ Registration
 
-[**Register now!**](https://developer.microsoft.com/reactor/series/S-1628//?wt.mc_id=github_S-1628_webpage_reactor)
+[**Register for the hackathon**](https://aka.ms/JSBuildathon_Hack)
 
-Sign up and browse the livestream schedule to register for sessions you're interested in.
-
-Once you're registered, [introduce yourself](https://aka.ms/JSAIonDiscord) in the Build-a-thon channel and connect with other builders.
+Once you're registered, [introduce yourself](https://aka.ms/JSAIonDiscord) in the Build-a-thon channel and connect with other builders to find teammates.
 
 ## ⚙️ How It Works
 
@@ -36,45 +34,70 @@ The Build-a-thon runs in two phases:
 
 Complete guided [quests](quests.md) and attend expert-led livestreams to build the skills you need. Each quest is hands-on, self-paced, and teaches a core AI development pattern with JavaScript/TypeScript.
 
-!!! note "Participation Requirement"
-    Complete at least **2 quests** (including the guided project) to be eligible for the hack.
-
 ### 🔥 Phase 2: Hack! (March 13 – March 31)
 
-Build something that matters. Use everything you learned — and beyond — to create an AI-powered project that solves a real problem, delights users, or pushes what's possible.
+Build something that matters. Use everything you learned — and beyond —  to build AI Agents that solve real problems
 
-!!! info "🚀 Hackathon Details Coming March 13"
-    Full details on submission, judging criteria, award categories, prizes, and the hack phase schedule will be published when the hack goes live. Here's what we can tell you now:
+<img alt="JavaScript AI Build-a-thon Hack" src="media/hack-roadmap.svg" width="100%">
 
-    * 🏆 **3 award categories** with cash prizes
-    * 💻 **Product demo showcases** throughout the hack phase to keep you building with the latest tools
-    * 👥 Teams of up to 4 or solo — your call
+## 🎥 Office Hours Schedule
 
-## 🎥 Livestream Schedule
+During the hack phase, attend technical demos and special Discord Office Hours (8:00 AM PDT) to learn the latest AI tools, best practices, and get help with your project
 
-Expert-led sessions streamed live on Microsoft Reactor.
+| Day/Time (PT) | Topic |
+|---|---|
+| [Mon 3/16, 8:00 AM PDT](https://discord.gg/microsoftfoundry?event=1476309470312136704) | Azure & Foundry MCP Server Demo |
+| [Mon 3/18, 8:00 AM PDT](https://discord.gg/microsoftfoundry?event=1476310190885175296) | Azure Developer CLI (azd) Demo |
+| [Wed 3/20, 8:00 AM PDT](https://discord.gg/microsoftfoundry?event=1473725339959033866) | Azure DocumentDB Demo |
+| [Wed 3/23, 8:00 AM PDT](https://discord.gg/microsoftfoundry?event=1473726030421430272) | GitHub Copilot CLI & SDK Demo |
+| [Fri 3/25, 8:00 AM PDT](https://discord.gg/microsoftfoundry?event=1473781418956947566) | GitHub Agentic Workflows Demo |
+| [Fri 3/27, 8:00 AM PDT](https://discord.gg/microsoftfoundry?event=1473781883811795147) | GitHub Copilot App Modernization Demo |
 
-### Week 1: March 2 – March 6
+## ⚖️ Judging Criteria
 
-| Day/Time (PT) | Topic | Presenter |
-|---|---|---|
-| [Mon 3/2, 8:00 AM](https://developer.microsoft.com/en-us/reactor/events/26772/) | Local AI Development with Foundry Local | Lee Stott, Maanav Dalal |
-| [Mon 3/2, 9:05 AM](https://discord.gg/microsoftfoundry?event=1465380906842853666) | Discord Office Hour: Open QnA on Foundry Local | — |
-| [Wed 3/4, 8:00 AM](https://developer.microsoft.com/en-us/reactor/events/26773/) | End-to-End Model Development on Microsoft Foundry | Nitya Narasimhan |
-| [Wed 3/4, 9:05 AM](https://discord.gg/microsoftfoundry?event=1470927803888173109) | Discord Office Hour: Open QnA on Microsoft Foundry | — |
-| [Fri 3/6, 9:00 AM](https://developer.microsoft.com/en-us/reactor/events/26775/) | Advanced RAG Deep Dive + Guided Project | Pamela Fox |
-| [Fri 3/6, 10:05 AM](https://discord.gg/microsoftfoundry?event=1465381686362509323) | Discord Office Hour: Open QnA on RAG | — |
+| Criteria | Weight |
+|---|---|
+| Depth of AI Integration | 25% |
+| Technical Implementation & User Experience | 20% |
+| Use of Responsible AI Patterns | 15% |
+| Solution Value (Potential of your solution to solve real-world problems) | 15% |
+| Innovation & Creativity | 10% |
+| Documentation & Storytelling | 10% |
+| Compliance with the Award Category | 5% |
 
-### Week 2: March 9 – March 13
+## 🏆 Award Categories
 
-| Day/Time (PT) | Topic | Presenter |
-|---|---|---|
-| [Mon 3/9, 8:00 AM](https://developer.microsoft.com/en-us/reactor/events/26776/) | Design & Build an Agent E2E with Agent Builder (AITK) | April Gittens |
-| [Mon 3/9, 9:05 AM](https://discord.gg/microsoftfoundry?event=1465382167894036481) | Discord Office Hour: Open QnA on AI Toolkit | — |
-| [Wed 3/11, 8:00 AM](https://developer.microsoft.com/en-us/reactor/events/26786/) | Build, Scale & Govern AI Agents + Guided project | Wassim Chegham |
-| [Wed 3/11, 9:05 AM](https://discord.gg/microsoftfoundry?event=1465382908687814840) | Discord Office Hour: Open QnA on designing & building AI Agents | — |
-| [Fri 3/13, 8:00 AM](https://developer.microsoft.com/en-us/reactor/events/26777/) | Build-a-thon Global Hack Launch | Julia Muiruri |
-| [Fri 3/13, 8:35 AM](https://discord.gg/microsoftfoundry?event=1470930191994847343) | Discord Office Hour: Hack! | — |
+<img alt="Award categories" src="media/award-categories.png" width="100%">
+
+### ✨ Special Spotlight: AI-Builder Award
+
+!!! note
+    Did you use AI to build your AI? We want to see it!
+
+This special recognition goes to builders who go beyond just building with AI — they show how they built. Share your prompts, workflows, tips, and tricks with the community.
+
+We will be giving away **10 GitHub Copilot Pro + licenses** for this award, and here is how you can stand out: 
+
+1. 🪄 Share your prompts & prompt engineering strategies in your submission, blog post, and on Discord using the provided template
+1. 🔧 Document your AI tools & workflows — how you used GitHub Copilot, AI Toolkit, Copilot CLI, or other AI-assisted tools
+1. 💬 Be active in the community — post tips, answer questions, and share what you're learning in Discord
+1. 📝 Share what worked and what didn't — your honest takeaways help everyone level up
+
+!!! note
+    We'll be watching both submissions and community contributions. This isn't about perfection — it's about transparency, generosity, and helping others learn. The best AI builders lift the whole community.
+
+## 🏁 Project Submission
+
+Submit your project on [Innovation Studio](https://aka.ms/JSBuildathon_Hack). Your submission must include:
+
+1. **GitHub repository**: URL to your project's code for judging and testing
+2. **Technical blog**: URL to a blog post with a step-by-step walkthrough of your project
+4. **Project video**: 3–5 minute demo on YouTube, Vimeo, or Facebook (public)
+5. **GitHub usernames**: For ALL team members
+
+!!! warning
+    Judging time per project is strictly under 5 minutes — make your demo count!
+
 
 ## 💬 Community & Support
 
