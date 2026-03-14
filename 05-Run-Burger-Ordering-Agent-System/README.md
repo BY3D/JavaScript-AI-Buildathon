@@ -1,6 +1,6 @@
 ![Burger Ordering Agent Logo](./assets/burger-logo.png)
 
-Livestream starting soon! **Click the image below to register.**
+Livestream starting soon! **Click the image below to watch the livestream/recording.**
 
 [![Reactor Livestream](./assets/poster-quest5.png)](https://www.youtube.com/live/kBVsqJbM7Vc?si=hmIEfla6KOB9MsYW)
 
